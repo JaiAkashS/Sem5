@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(){
+    //Declaring a variable
+    int a = 5
+    const var = 10;
+    
+    return 0;
+}
